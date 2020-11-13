@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: blue;
+}
+div{
+    margin-top: 15px;
+}
+.image-saction{
+    display: flex;
+    justify-content: center;
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
